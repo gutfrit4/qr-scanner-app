@@ -1,0 +1,7 @@
+{
+  "name": "qr-scanner-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
